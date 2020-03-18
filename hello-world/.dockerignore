@@ -1,2 +1,4 @@
+.dockerignore
 dockerfile
 *.ps1
+*.json
