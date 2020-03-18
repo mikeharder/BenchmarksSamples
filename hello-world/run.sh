@@ -16,7 +16,7 @@ Application started.
         {
             "Timestamp": "2020-03-17T20:06:13.9414065Z",
             "Name": "helloworld/throughput",
-            "Value": 123.456
+            "Value": $1
         }
     ]
 }

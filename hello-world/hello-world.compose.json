@@ -12,7 +12,8 @@
         "source": {
           "repository": "https://github.com/mikeharder/BenchmarksSamples.git",
           "branchOrCommit": "master",
-          "dockerfile": "hello-world/dockerfile"
+          "dockerfile": "hello-world/dockerfile",
+          "dockerCommand": "123.456"
         },
         "waitForExit": true,
         "readyStateText": "Application started."
