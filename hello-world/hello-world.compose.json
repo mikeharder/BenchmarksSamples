@@ -12,11 +12,8 @@
         "source": {
           "repository": "https://github.com/mikeharder/BenchmarksSamples.git",
           "branchOrCommit": "master",
-          "dockerfile": "src/Components/benchmarkapps/Wasm.Performance/dockerfile"
+          "dockerfile": "hello-world/dockerfile"
         },
-        "buildArguments": [
-          "gitBranch=blazor-wasm"
-        ],
         "waitForExit": true,
         "readyStateText": "Application started."
       }
